@@ -184,6 +184,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		048B8EC223A9209700BC6C67 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/Main.strings"; sourceTree = "<group>"; };
+		048B8EC323A9209700BC6C67 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		048B8EC423A9209700BC6C67 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		274DF35922D363BC0095CE49 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/Localizable.strings; sourceTree = "<group>"; };
 		362967772294C23700B9FC4A /* CGImagePropertyOrientation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGImagePropertyOrientation.swift; sourceTree = "<group>"; };
 		4A644E2221A73C2B00B20839 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -666,6 +669,7 @@
 				de,
 				"pt-BR",
 				hu,
+				"en-US",
 			);
 			mainGroup = A1D4BCAE202C4F3800FCDDEC;
 			productRefGroup = A1D4BCB8202C4F3800FCDDEC /* Products */;
@@ -892,6 +896,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B97B49D4216C6FF600B2235B /* Base */,
+				048B8EC223A9209700BC6C67 /* en-US */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -900,6 +905,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B97B49D5216C6FF600B2235B /* Base */,
+				048B8EC323A9209700BC6C67 /* en-US */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -917,6 +923,7 @@
 				82A414A022B9391B00DF5831 /* pt-BR */,
 				274DF35922D363BC0095CE49 /* hu */,
 				6D0F9C54238FDFF5002191F2 /* nl */,
+				048B8EC423A9209700BC6C67 /* en-US */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
