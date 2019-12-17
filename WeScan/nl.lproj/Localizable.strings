@@ -8,6 +8,7 @@
 
 /* The title on the navigation bar of the Edit screen. */
 "wescan.edit.title" = "Aanpassen";
+"wescan.edit.back.title" = "Vorige";
 
 /* The title on the navigation bar of the Review screen. */
 "wescan.review.title" = "Bevestigen";
